@@ -1,0 +1,20 @@
+Typing_game_logs
+
+This data contains logs extracted from our typing game.
+This data is in csv format.
+This data is in UTF-8 (LF).
+This data is arranged in chronological order.
+The first column displays strings typing game users actually typed.
+These strings may include an uppercase letter "B".
+A uppercase letter "B" shows that typing game users hit Backspace key.
+The second column displays strings typing game users sent as they saw.
+These strings do not include an uppercase letter "B" and a letter removed by a Backspace key.
+The third column displays English word shown in our typing game.
+The fourth column displays time (ms) that the user spent to input one word.
+The fifth column displays user name (anonymous) in the typing game.
+
+You can use this data if you follow a License under the cc-by-4.0 (http://creativecommons.org/licenses/by/4.0/).
+
+Typing_game_logs
+Copyright 2015 Ryuichi Tachibana and Mamoru Komachi
+License under the cc-by-4.0
